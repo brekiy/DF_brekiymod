@@ -1,0 +1,89 @@
+BREKIY DF MOD
+
+INSTALLATION: dump everything but the changelog into the raw/objects folder
+
+===	14-12-2017 RELEASE ===
+
+*** ARMOR CHANGES ***
+
+NEW:
+-added plate arm harness: hard plate armor encasing the arm
+-added mail sleeve: mail armor worn on each arm
+
+-added lamellar armor: rigid armor that extends to protect the upper arm/thighs but is much thinner than breastplate
+-added mail hauberk: long-sleeve mail shirt
+-added aketon: padded jacket that helps protect against cuts/bruises
+-added surcoat: loose outer garment usually worn over armor
+-added jupon: lightly padded jacket worn over armor
+
+-added greave: rigid shin protection worn on each leg
+-added plate leg harness: complete armor worn on each leg
+-added pteruges: a skirt of thick fabric/leather flaps to protect the upper leg
+
+-added arming cap: padded cap that helps protect against cuts/bruises
+-added barbute: helmet with cheekguards and covers more of the face than the nasal
+-added greathelm: full-faced helmet that can be worn over a mail coif
+-added kabuto: fairly protective helmet with room for war mask underneath
+-added mail coif: hood of mail that covers most of the face
+
+-added scutum: large rectangular shield with the highest block chance in game
+-added kite shield: large shield with the second highest block chance in game
+
+CHANGES:
+-vanilla helm to nasal helm
+-vanilla leggings to mail leggings and restricted them to metal only
+-vanilla high boots to just boots and removed metal boots
+-vanilla low boots to sabatons
+-vanilla mask to war mask
+-vanilla shield to round shield
+
+-lowered coverage of vanilla nasal helm
+-reworked all vanilla armor to be thinner, which makes them lighter
+
+
+*** WEAPON CHANGES ***
+
+NEW:
+
+-added katana: sword that deals powerful cutting blows
+-added arming sword: versatile 1h sword
+-added falchion: sword that chops at its targets, but isnt as good at stabbing
+-added falx: heavy 2h sword for hacking off limbs wielded by orcs
+
+-added club: simple blunt weapon that comes in 1h and 2h varieties
+
+-added quarterstaff: long stick
+-added hardened spear: meant to be used by elves with a thinner tip
+-added glaive: pole weapon with a long blade that deals nasty cutting blows
+-added bardiche: a long axe blade on a stick
+
+-added dwarven crossbow: crossbow with a bayonet and slightly more power
+-added composite bow: bow with more power
+-added greatbow: larger bow with most power
+
+-added training mace/hammer
+
+CHANGES:
+-vanilla long sword rplaced with arming sword
+
+-vanilla great axe to long axe
+-vanilla maul to pole hammer
+-vanilla greatsword can half-sword
+
+-lowered contact area of all weapons and made them smaller in size
+-tweaked prepare/recover frames for weapons
+-tweaked velocity multipliers on weapons
+
+*** CREATURE CHANGES ***
+
+NEW:
+-added orc: strong, intelligent evil creatures prone to banditry and slightly larger than humans
+-added qhonitar: new megabeast with stinger and 4 arms
+-added ironwood: new tree, with wood roughly on par with iron in durability/edge
+
+-added 2 new human civs roughly flavored by feudal japan/late roman empire
+
+CHANGES:
+-removed CANLATCH tag from humanoid biting so no more shaking your enemies until they bleed out after you bite them
+-removed BAD_MULTIATTACK flag from humanoid kicking so you can do kung fu
+-increased VASCULAR values on most tissue layers so its easier to bleed out
